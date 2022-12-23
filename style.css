@@ -1,0 +1,13 @@
+*{
+    margin:0;
+    padding:0;
+}
+:root{
+    --navbar-height:59px;
+}
+#logo img
+{
+    height: 50px;
+}
+/* <img src="samanvitha logo.png" alt="onlinewebsite.com" style="
+    height: 30px"> */
